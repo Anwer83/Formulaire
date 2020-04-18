@@ -1,0 +1,7 @@
+{
+  "name": "Formulaire",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
