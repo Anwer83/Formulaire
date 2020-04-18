@@ -1,7 +1,8 @@
 {
   "name": "Formulaire",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }
